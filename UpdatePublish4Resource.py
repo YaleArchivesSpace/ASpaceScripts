@@ -1,7 +1,7 @@
 import requests
 import json
 
-aspace_url = 'http://**.library.yale.edu:8089'
+aspace_url = '**'
 username = '**'
 password = '**'
 repo_num = '3'
